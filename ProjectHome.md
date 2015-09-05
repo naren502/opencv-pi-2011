@@ -1,0 +1,1 @@
+Trabalho para a disciplina Processamento de Imagem Digital
